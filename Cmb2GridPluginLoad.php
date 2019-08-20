@@ -86,7 +86,7 @@ if ( ! class_exists( '\Cmb2Grid\Cmb2GridPlugin' ) ) {
 			<style>
 				.cmb2GridRow .cmb-row{border:none !important;padding:0 !important}
 				.cmb2GridRow .cmb-th label:after{border:none !important}
-				.cmb2GridRow .cmb-th{width:100% !important}
+				.cmb2GridRow .cmb-th{width:auto !important}
 				.cmb2GridRow .cmb-td{width:100% !important}
 				.cmb2GridRow input[type="text"], .cmb2GridRow textarea, .cmb2GridRow select{width:100%}
 
